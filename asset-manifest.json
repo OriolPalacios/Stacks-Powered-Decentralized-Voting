@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Stacks-Powered-Decentralized-Voting/static/css/main.f855e6bc.css",
-    "main.js": "/Stacks-Powered-Decentralized-Voting/static/js/main.58a7a1af.js",
-    "static/js/46.3cd97966.chunk.js": "/Stacks-Powered-Decentralized-Voting/static/js/46.3cd97966.chunk.js",
-    "static/js/453.419a5d54.chunk.js": "/Stacks-Powered-Decentralized-Voting/static/js/453.419a5d54.chunk.js",
+    "main.css": "/Stacks-Powered-Decentralized-Voting/static/css/main.ffb67aac.css",
+    "main.js": "/Stacks-Powered-Decentralized-Voting/static/js/main.215b4b7a.js",
+    "static/js/46.12bca0b2.chunk.js": "/Stacks-Powered-Decentralized-Voting/static/js/46.12bca0b2.chunk.js",
+    "static/js/453.258b012d.chunk.js": "/Stacks-Powered-Decentralized-Voting/static/js/453.258b012d.chunk.js",
+    "static/media/projectLogo.jpg": "/Stacks-Powered-Decentralized-Voting/static/media/projectLogo.ee982860447cc2c5990a.jpg",
     "index.html": "/Stacks-Powered-Decentralized-Voting/index.html",
-    "main.f855e6bc.css.map": "/Stacks-Powered-Decentralized-Voting/static/css/main.f855e6bc.css.map",
-    "main.58a7a1af.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/main.58a7a1af.js.map",
-    "46.3cd97966.chunk.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/46.3cd97966.chunk.js.map",
-    "453.419a5d54.chunk.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/453.419a5d54.chunk.js.map"
+    "main.ffb67aac.css.map": "/Stacks-Powered-Decentralized-Voting/static/css/main.ffb67aac.css.map",
+    "main.215b4b7a.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/main.215b4b7a.js.map",
+    "46.12bca0b2.chunk.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/46.12bca0b2.chunk.js.map",
+    "453.258b012d.chunk.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.58a7a1af.js"
+    "static/css/main.ffb67aac.css",
+    "static/js/main.215b4b7a.js"
   ]
 }
