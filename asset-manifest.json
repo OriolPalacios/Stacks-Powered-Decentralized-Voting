@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Stacks-Powered-Decentralized-Voting/static/css/main.ffb67aac.css",
-    "main.js": "/Stacks-Powered-Decentralized-Voting/static/js/main.215b4b7a.js",
+    "main.css": "/Stacks-Powered-Decentralized-Voting/static/css/main.944ce265.css",
+    "main.js": "/Stacks-Powered-Decentralized-Voting/static/js/main.96be6752.js",
     "static/js/46.12bca0b2.chunk.js": "/Stacks-Powered-Decentralized-Voting/static/js/46.12bca0b2.chunk.js",
     "static/js/453.258b012d.chunk.js": "/Stacks-Powered-Decentralized-Voting/static/js/453.258b012d.chunk.js",
     "static/media/projectLogo.jpg": "/Stacks-Powered-Decentralized-Voting/static/media/projectLogo.ee982860447cc2c5990a.jpg",
     "index.html": "/Stacks-Powered-Decentralized-Voting/index.html",
-    "main.ffb67aac.css.map": "/Stacks-Powered-Decentralized-Voting/static/css/main.ffb67aac.css.map",
-    "main.215b4b7a.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/main.215b4b7a.js.map",
+    "main.944ce265.css.map": "/Stacks-Powered-Decentralized-Voting/static/css/main.944ce265.css.map",
+    "main.96be6752.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/main.96be6752.js.map",
     "46.12bca0b2.chunk.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/46.12bca0b2.chunk.js.map",
     "453.258b012d.chunk.js.map": "/Stacks-Powered-Decentralized-Voting/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffb67aac.css",
-    "static/js/main.215b4b7a.js"
+    "static/css/main.944ce265.css",
+    "static/js/main.96be6752.js"
   ]
 }
