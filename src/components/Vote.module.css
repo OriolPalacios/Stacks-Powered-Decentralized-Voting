@@ -1,0 +1,65 @@
+.candidateContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.MainContainer {
+    margin-top: 2rem;
+}
+
+.MainContainer h3 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.btnCard {
+    display: none;
+    opacity: 0;
+    transform: scale(0.5); /* Start button smaller in size */
+    transition: transform 0.5s ease; /* Transition for opacity and scaling */
+}
+
+.voteCard {
+    width: 250px !important;
+    height: 250px !important;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    color: rgb(74, 74, 74);
+    background-color: #ffa319 !important;
+    border-radius: 50% !important;
+    position: relative; /* Make sure child elements are positioned relative to the card */
+}
+
+.cartTitle {
+    display: block;
+    transition: opacity 0.5s ease; /* Smooth transition for title disappearing */
+}
+
+.voteCardBody {
+    display: flex;
+}
+
+.voteCard:hover .btnCard {
+    display: block !important;
+    opacity: 1;
+    transform: scale(1); /* Scale button to its full size */
+    width: 250px;
+    height: 250px;
+    padding: 0 !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50% !important;
+    font-size: 1.5em;
+}
+
+.btnCard:hover{
+    background-color: azure !important  ;
+}
+
+.voteCard:hover .cartTitle {
+    opacity: 0; /* Hide the title smoothly */
+}

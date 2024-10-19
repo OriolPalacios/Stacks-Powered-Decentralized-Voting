@@ -1,0 +1,8 @@
+.walletContainer{
+    border: 1px solid #ED9510;
+    border-radius: 5px;
+}
+
+.walletContainer p{
+    margin: 0;
+}
