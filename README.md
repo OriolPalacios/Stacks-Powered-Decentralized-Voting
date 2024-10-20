@@ -45,5 +45,21 @@ Para el futuro, se planea la integración con Internet Computer Protocol (ICP), 
 - Reducción de costos: El uso de ICP permitirá optimizar los costos de almacenamiento y procesamiento a largo plazo.
 - Seguridad adicional: Aprovechando la arquitectura de ICP, se incrementará la resistencia frente a posibles amenazas de seguridad.
 - Disponibilidad de datos en tiempo real: Con la integración de ICP, los resultados de las votaciones serán aún más rápidos y eficientes.
+
+## Guía de Instalación
+1. Clonar el repositorio
+   ```bash
+   git clone git@github.com:OriolPalacios/Stacks-Powered-Decentralized-Voting.git
+   cd Stacks-Powered-Decentralized-Voting
+   ```
+3. Instalar dependencias
+   ```bash
+   npm install
+   ```
+5. Desplegar en un servidor local
+   ```bash
+   npm run start
+   ```
+
 ## Licencia
 Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
