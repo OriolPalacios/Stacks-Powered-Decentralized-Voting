@@ -31,13 +31,3 @@
 (define-public (burn-tokens (amount uint))
     (ft-burn? unsaac-coin amount tx-sender)
 )
-
-
-(define-public (supply-unsaac-coins) 
-    (ok (ft-get-balance unsaac-coin tx-sender))
-)
-
-
-(define-read-only (get-candidates-len)
-    (var-get candidates-count)
-)
