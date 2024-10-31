@@ -28,7 +28,7 @@ const Dashboard: FC<{
             console.log(candidate);
             const txOptions = {
                 contractAddress: "ST1VSYCCDQ5K5G8TBMPZM3QV2YDGBWWMTWMXJ8XHP",
-                contractName: 'test_vote_2',
+                contractName: 'core_vote',
                 functionName: 'get-candidate-votes',
                 functionArgs: [stringAsciiCV(candidate)],
                 network,
