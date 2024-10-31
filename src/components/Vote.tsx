@@ -17,7 +17,7 @@ const Vote: FC<{ walletAddress: string, userSession: UserSession, setPassCandida
     const network = new StacksTestnet();
     const txOptions = {
       contractAddress: 'ST1VSYCCDQ5K5G8TBMPZM3QV2YDGBWWMTWMXJ8XHP',
-      contractName: 'test_vote_2',
+      contractName: 'core_vote',
       functionName: 'get-candidates',
       functionArgs: [], // Adjust if arguments are needed
       network,
@@ -42,7 +42,7 @@ const Vote: FC<{ walletAddress: string, userSession: UserSession, setPassCandida
     const network = new StacksTestnet();
     const txOptions = {
       contractAddress: 'ST1VSYCCDQ5K5G8TBMPZM3QV2YDGBWWMTWMXJ8XHP',
-      contractName: 'test_vote_2',
+      contractName: 'core_vote',
       functionName: 'has-address-voted',
       functionArgs: [principalCV(walletAddress)], // Adjust if arguments are needed
       network,
@@ -71,7 +71,7 @@ const Vote: FC<{ walletAddress: string, userSession: UserSession, setPassCandida
 
     const txOptions = {
       contractAddress: 'ST1VSYCCDQ5K5G8TBMPZM3QV2YDGBWWMTWMXJ8XHP',
-      contractName: 'test_vote_2',
+      contractName: 'core_vote',
       functionName: 'vote',
       functionArgs: [stringAsciiCV(candidate)],
       senderKey: userSession.loadUserData().appPrivateKey,
